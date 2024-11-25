@@ -17,9 +17,9 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>23</maven.compiler.source>
-    <maven.compiler.target>23</maven.compiler.target>
-    <maven.compiler.release>23</maven.compiler.release>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+    <maven.compiler.release>17</maven.compiler.release>
     <spring.boot.maven.plugin>2.5.7</spring.boot.maven.plugin>
     <spring.boot.dependencies.version>2.5.7</spring.boot.dependencies.version>
   </properties>
